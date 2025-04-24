@@ -13,6 +13,7 @@ immune_system/
 ├── regulation_dysregulation.md  # 免疫系統的調節與失調
 ├── clinical_applications.md     # 免疫學的臨床應用
 ├── course_outline.md            # 課程大綱
+├── immune_diseases.md           # 免疫疾病介紹
 └── glossary.md                  # 詞彙解釋
 ```
 
